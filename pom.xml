@@ -55,7 +55,7 @@
             <artifactId>hibernate-jpa-2.1-api</artifactId>
         </dependency>
 
-     <!--   <dependency>
+        <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger2</artifactId>
             <exclusions>
@@ -68,8 +68,8 @@
         <dependency>
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
-        </dependency>-->
-        <!-- Commons End -->
+        </dependency>
+        <!--  Commons End -->
 
         <!-- Projects Begin -->
         <dependency>
